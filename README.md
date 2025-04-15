@@ -1,8 +1,50 @@
-# React + Vite
+# 🚀 NASA Astronomy Picture of the Day (APOD) Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A web application that displays the **Astronomy Picture of the Day (APOD)** using NASA's official API. The website dynamically fetches breathtaking space photographs along with their detailed explanations — updated daily!
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌌 Features
+
+- Fetches and displays the latest **Astronomy Picture of the Day** from NASA.
+- Displays high-resolution space images.
+- Includes title, date, and a detailed explanation for each image.
+- Seamless and responsive UI for all devices.
+- Built with modern web technologies.
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ **React.js** — Frontend library
+- ⚡ **Vite** — Lightning-fast build tool
+- 💅 **CSS** — Custom responsive styling
+- 🔗 **NASA Open API** — Data Source
+
+---
+
+## 💻 Demo
+
+> No live demo for this project.  
+Please refer to the screenshots below for a visual overview!
+
+---
+
+## 📸 Screenshots
+
+| Home Page |
+|-----------|
+| ![Home Page](./assets/screenshots/homepage.png) |
+
+| Image Detail Example |
+|----------------------|
+| ![APOD Detail](./assets/screenshots/apod-detail.png) |
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+```bash
+git clone https://github.com/RatulSen555/nasa-apod-website.git
+

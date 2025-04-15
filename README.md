@@ -34,11 +34,11 @@ Please refer to the screenshots below for a visual overview!
 
 | Home Page |
 |-----------|
-| ![Home Page](./assets/screenshots/homepage.png) |
+| ![Home Page](./public/screenshot1) |
 
 | Image Detail Example |
 |----------------------|
-| ![APOD Detail](./assets/screenshots/apod-detail.png) |
+| ![APOD Detail](./public/screenshot2) |
 
 ---
 
